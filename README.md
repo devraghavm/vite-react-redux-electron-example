@@ -28,4 +28,8 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# vite-react-redux-electron-example
+
+# References:
+- [Getting Started With Redux, React Typescript, Electron using Vite](https://medium.com/@tweiss747/getting-started-with-redux-react-typescript-electron-using-vite-ffed63074602) 
+
+
